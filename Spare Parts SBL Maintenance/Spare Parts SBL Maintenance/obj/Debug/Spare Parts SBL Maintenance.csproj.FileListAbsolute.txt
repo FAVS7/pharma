@@ -1,0 +1,26 @@
+C:\Users\te-saucedof\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\bin\Debug\Spare Parts SBL Maintenance.exe.config
+C:\Users\te-saucedof\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\bin\Debug\Spare Parts SBL Maintenance.exe
+C:\Users\te-saucedof\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\bin\Debug\Spare Parts SBL Maintenance.pdb
+C:\Users\te-saucedof\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare Parts SBL Maintenance.csprojAssemblyReference.cache
+C:\Users\te-saucedof\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare_Parts_SBL_Maintenance.Form1.resources
+C:\Users\te-saucedof\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare_Parts_SBL_Maintenance.Properties.Resources.resources
+C:\Users\te-saucedof\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare Parts SBL Maintenance.csproj.GenerateResource.cache
+C:\Users\te-saucedof\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare Parts SBL Maintenance.csproj.CoreCompileInputs.cache
+C:\Users\te-saucedof\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare Parts SBL Maintenance.exe
+C:\Users\te-saucedof\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare Parts SBL Maintenance.pdb
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\bin\Debug\Spare Parts SBL Maintenance.exe.config
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\bin\Debug\Spare Parts SBL Maintenance.exe
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\bin\Debug\Spare Parts SBL Maintenance.pdb
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare Parts SBL Maintenance.csprojAssemblyReference.cache
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare_Parts_SBL_Maintenance.Form1.resources
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare_Parts_SBL_Maintenance.Properties.Resources.resources
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare Parts SBL Maintenance.csproj.GenerateResource.cache
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare Parts SBL Maintenance.csproj.CoreCompileInputs.cache
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare Parts SBL Maintenance.exe
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare Parts SBL Maintenance.pdb
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare_Parts_SBL_Maintenance.frmLogin.resources
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare_Parts_SBL_Maintenance.frmSearch.resources
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare_Parts_SBL_Maintenance.frmMaterialCharge.resources
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare_Parts_SBL_Maintenance.frmMaterialDischarge.resources
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare_Parts_SBL_Maintenance.frmReports.resources
+C:\Users\FAVS\source\repos\Spare Parts SBL Maintenance\Spare Parts SBL Maintenance\obj\Debug\Spare_Parts_SBL_Maintenance.frmUbication.resources
